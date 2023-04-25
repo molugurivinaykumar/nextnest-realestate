@@ -32,6 +32,7 @@ The property listing page displays all the properties listed by the agency, incl
 
 The website is designed to be responsive, ensuring that it can adapt to different screen sizes and devices. Best practices were followed throughout the development process, including the use of semantic HTML, proper code commenting, and testing for cross-browser compatibility and mobile responsiveness. Finally, the website was deployed using GitHub Pages, making it accessible to the public.
 
-### Desktop Image
-
-### Mobile Image
+### Desktop Image:
+![image](https://user-images.githubusercontent.com/66858598/234405479-3c223a45-55ae-4d0f-9dca-1d9599fb1764.png)
+### Mobile Image:
+![image](https://user-images.githubusercontent.com/66858598/234405503-38c01d6f-3c72-43d5-ae00-158f0bbd06ae.png)
